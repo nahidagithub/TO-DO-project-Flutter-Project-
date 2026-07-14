@@ -7,9 +7,10 @@ Designed and developed a Flutter mobile application using Dart, implementing Pro
 ## Android Studio Download
 ## Vs Code Install
 ## Create Project
-   flutter create todo_app
+   Bash: flutter create todo_app
    
 ## Install Dependencies
+Bash:
   dependencies:
   flutter:
     sdk: flutter
@@ -18,4 +19,5 @@ Designed and developed a Flutter mobile application using Dart, implementing Pro
   shared_preferences: ^2.2.2
 
 ## Run
+Bash:
    flutter pub get
