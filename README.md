@@ -1,5 +1,8 @@
 # TO-DO-project-Flutter-Project-
 
+Designed and developed a Flutter mobile application using Dart, implementing Provider for state management and SharedPreferences for local data storage. Focused on building a clean, responsive, and user-friendly interface following Flutter best practices.
+
+
 ## Install flutter SDK
 ## Android Studio Download
 ## Vs Code Install
